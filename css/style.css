@@ -72,6 +72,12 @@ table, th, td {
 }
 
 /* sec."Info" */
+h3 {
+	font-size: 20px;
+	color: #808080;
+	width: 300px;
+	margin-bottom: 10px;
+}
 div .img {
 	width: 210px;
 	height: 160px ;
@@ -80,16 +86,12 @@ div .img {
 	font-size: 20px;
 	padding: 10px 12px;
 }
+
 .img-monitor {
 margin-bottom: 10px;
 	background-image: url("../img/monitor.jpg");
 }
 
-
-
-
-
 .img-map {
-	
 	background-image: url("../img/graph.jpg");
 }
