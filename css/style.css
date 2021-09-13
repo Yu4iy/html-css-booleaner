@@ -29,7 +29,15 @@ h1 {
 	font-size: 20px;
 	color: #808080;
 	width: 300px;
+	margin-bottom: 20px;
 }
 .subtitle span{
 	color: #20a9e5;
 }
+
+/* sec."Photo" */
+.pht-desc {
+	font-size: 13px;
+}
+
+/* sec."Description" */
