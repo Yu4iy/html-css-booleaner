@@ -4,6 +4,9 @@
 	width: 1057px;
 	margin: 0 auto;
 }
+.select-yel {
+	background-color: #ffff00;
+}
 
 /* HEADER */
 header {
@@ -41,3 +44,11 @@ h1 {
 }
 
 /* sec."Description" */
+section ul {
+	padding-left: 15px;
+	line-height: 6px;
+}
+
+.list {
+	margin:34px 0 36px ;
+}
