@@ -1,8 +1,11 @@
+
+
 .container {
 	width: 1057px;
 	margin: 0 auto;
 }
 
+/* HEADER */
 header {
 	height: 100px;
 	background-color: #4ea0ff;
@@ -14,4 +17,19 @@ header {
 .logo {
 	height: 50%;
 	margin: 40px 7px 17px 7px ;
+}
+
+/* sec."Title" */
+h1 {
+	font-size: 40px;
+	margin-bottom: 0;
+}
+
+.subtitle {
+	font-size: 20px;
+	color: #808080;
+	width: 300px;
+}
+.subtitle span{
+	color: #20a9e5;
 }
