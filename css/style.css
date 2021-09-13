@@ -54,8 +54,6 @@ section ul {
 }
 
 /* sec."Table" */
-
-
 table, th, td {
 	border-collapse: collapse;
 	text-align: start;
@@ -71,4 +69,27 @@ table, th, td {
 }
 .table-row {
 	background-color: #b1e5f2;
+}
+
+/* sec."Info" */
+div .img {
+	width: 210px;
+	height: 160px ;
+	color: #fff;
+	font-weight: 700;
+	font-size: 20px;
+	padding: 10px 12px;
+}
+.img-monitor {
+margin-bottom: 10px;
+	background-image: url("../img/monitor.jpg");
+}
+
+
+
+
+
+.img-map {
+	
+	background-image: url("../img/graph.jpg");
 }
